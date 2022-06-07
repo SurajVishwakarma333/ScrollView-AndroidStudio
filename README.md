@@ -1,9 +1,9 @@
 # ScrollView-AndroidStudio.
 
 
-ScrollView is used to scroll the items in horizontal and vertical direction.
+I. ScrollView is used to scroll the items in horizontal and vertical direction.
 
- In android default ScrollView is used to scroll the items in vertical direction and if you want to scroll the items horizontally then you need to implement horizontal ScrollView.
+II. In android default ScrollView is used to scroll the items in vertical direction and if you want to scroll the items horizontally then you need to implement horizontal ScrollView.
  
 • Important Note : Remember ScrollView can hold only one direct child. So we have to jointly put 10 buttons inside Linear Layout to make it one child. And then we put it inside ScrollView. 
  
