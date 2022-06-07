@@ -7,11 +7,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--Applying ScrollView here    -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scrollbars="vertical">
 
+<!--making linearLayout as a child and putting it inside the ScrollView  -->
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
