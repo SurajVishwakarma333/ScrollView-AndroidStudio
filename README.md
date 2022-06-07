@@ -9,6 +9,8 @@ II. In android default ScrollView is used to scroll the items in vertical direct
  
 • Important attributes Of Scroll View :
 
+scrollbars : In android, scrollbars attribute is used to show the scrollbars in horizontal or vertical direction. The possible Value of scrollbars is vertical, horizontal or none. By default scrollbars is shown in vertical direction in scrollView and in horizontal direction in HorizontalScrollView.
+
 ScrollView(VerticalScrollView) and HorizontalScrollView has same attributes, the only difference is scrollView scroll the child items in vertical direction while horizontal scroll view scroll the child items in horizontal direction.
 
 • syntax :
