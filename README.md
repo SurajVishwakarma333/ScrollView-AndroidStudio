@@ -7,7 +7,7 @@ II. In android default ScrollView is used to scroll the items in vertical direct
  
 • Important Note : Remember ScrollView can hold only one direct child. So we have to jointly put 10 buttons inside Linear Layout to make it one child. And then we put it inside ScrollView. 
  
-• Important attributes Of Scroll View :
+• Important attributes Of Scroll View is scrollbars :
 
 scrollbars : In android, scrollbars attribute is used to show the scrollbars in horizontal or vertical direction. The possible Value of scrollbars is vertical, horizontal or none. By default scrollbars is shown in vertical direction in scrollView and in horizontal direction in HorizontalScrollView.
 
