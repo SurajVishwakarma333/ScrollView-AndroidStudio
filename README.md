@@ -162,52 +162,6 @@ ScrollView(VerticalScrollView) and HorizontalScrollView has same attributes, the
                 android:text="Button 13"
                 android:textColor="#fff"
                 android:textSize="20sp" />
-            <Button
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="20dp"
-                android:background="#8219DD"
-                android:text="Button 14"
-                android:textColor="#fff"
-                android:textSize="20sp" />
-            <Button
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="20dp"
-                android:background="#2B0325"
-                android:text="Button 15"
-                android:textColor="#fff"
-                android:textSize="20sp" />
-            <Button
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="20dp"
-                android:background="#FF19F3"
-                android:text="Button 16"
-                android:textColor="#fff"
-                android:textSize="20sp" />
-            <Button
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="20dp"
-                android:background="#ECCC00"
-                android:text="Button 17"
-                android:textColor="#fff"
-                android:textSize="20sp" />
-            <Button
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="20dp"
-                android:background="#F65220"
-                android:text="Button 18"
-                android:textColor="#fff"
-                android:textSize="20sp" />
-
             </LinearLayout>
         </ScrollView>
       </androidx.constraintlayout.widget.ConstraintLayout>
